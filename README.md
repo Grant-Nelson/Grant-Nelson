@@ -9,6 +9,18 @@ It'll happen to you!
 
 ## Welcome to Grant Nelson's Personal Account
 
+### Featured Projects
+
+[![ThreeDart](./media/3Dart.png)](https://grant-nelson.github.io/ThreeDart/build/)
+
+[ThreeDart Live Examples](https://grant-nelson.github.io/ThreeDart/build/) | [ThreeDart Repo](https://github.com/Grant-Nelson/ThreeDart)
+
+[![OpenSimplexNoiseDart](./media/OpenSimplexNoise.png)](https://github.com/Grant-Nelson/OpenSimplexNoiseDart)
+
+[OpenSimplexNoiseDart Repo](https://github.com/Grant-Nelson/OpenSimplexNoiseDart)
+
+
+
 ### Work Info
 
 - **[My Workiva Github Account](https://github.com/grantnelson-wf)**
