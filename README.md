@@ -19,8 +19,6 @@ It'll happen to you!
 
 [OpenSimplexNoiseDart Repo](https://github.com/Grant-Nelson/OpenSimplexNoiseDart)
 
-
-
 ### Work Info
 
 - **[My Workiva Github Account](https://github.com/grantnelson-wf)**
